@@ -1,4 +1,5 @@
 # 需要在main.js引用改文件
+## 和Vue-router一起使用，如若改变/#之前的Url需要重新授权
 
 ```js
 import('@/common/wxsdk')
